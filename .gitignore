@@ -1,0 +1,5 @@
+# Node_modules
+node_modules/
+
+#Git Ignore supabase
+/supabase/.gitignore
